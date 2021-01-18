@@ -1057,7 +1057,7 @@ const uint8_t kXdrvList[] = {
 #endif
 
 #ifdef XDRV_128
-  Xdrv128
+  XDRV_128
 #endif
 };
 
